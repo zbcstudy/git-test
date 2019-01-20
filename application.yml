@@ -8,4 +8,4 @@ spring:
 ---
   profiles: test
   application:
-    name: microservicecloud-config-config-dev
+    name: microservicecloud-config-config-test
